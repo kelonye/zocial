@@ -1,0 +1,13 @@
+{
+  "name": "zocial",
+  "version": "0.0.1",
+  "styles": [
+    "css/zocial.css"
+  ],
+  "fonts": [
+    "css/zocial-regular-webfont.woff",
+    "css/zocial-regular-webfont.svg",
+    "css/zocial-regular-webfont.eot",
+    "css/zocial-regular-webfont.ttf"
+  ]
+}
